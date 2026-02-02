@@ -1,3 +1,7 @@
+header,
+footer {
+  justify-content: center;
+}
 h3 {
   color: red;
 }
