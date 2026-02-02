@@ -1,3 +1,7 @@
 texto de prueba para enviar
 
+<<<<<<< HEAD
 Primero se pasa a la edición de desarrollo
+=======
+Primero se pasa a la edición de desarrollo
+>>>>>>> parent of 354dc22 (Merge branch 'desarrollo' into CaracteristicasAdicionales)
